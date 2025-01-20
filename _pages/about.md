@@ -7,40 +7,42 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Electronic Information and Communications (EIC)](https://eic.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/)，majored in Electronic Information Engineering. My research interest mainly include edge computing.
+# Peng Jin's Homepage
 
-教育背景
-------
-2019.09-2022.6 杭州学军中学 \n
-2022.09-至今 华中科技大学 \n
+I'm a third-year undergraduate student from [School of Electronic Information and Communications (EIC)](https://eic.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), majoring in Electronic Information Engineering. My research interests mainly include edge computing.
 
-学业成绩
-------
-加权成绩:89.15 \n
-加权排名:6/30 \n
+## Education Background
+- **2019.09 - 2022.06**: Hangzhou Xuejun High School, Zhejiang, China
+- **2022.09 - Present**: Huazhong University of Science and Technology (HUST), Wuhan, China
 
-技能
-------
-编程语言:Python, C, Matlab \n
-英语:四级588，六级543 \n
-计算机等级:通过计算机三级网络技术、四级网络工程师 \n
+## Academic Achievements
+- **Weighted Score**: 89.15
+- **Class Rank**: 6/30
 
-科研竞赛
-------
-大一大二时期加入了电信学院李渝舟老师实验团队，在长波定位导航方向上进行学习，开发了一款实时获取当前经纬度的APP \n
-大二下开始加入计算机学院服务计算技术与系统教育部重点实验室，目前有两篇关于边缘计算的论文在投 \n
-2022 年 12 月获得湖北省大学生翻译大赛三等奖 \n
-2023 年 3 月获得大学生英语竞赛二等奖 \n
-2023 年 10 月获得湖北省大学生数学竞赛三等奖 \n
-2023 年 11 月获得华中科技大学科技节数学建模三等奖 \n
-2024 年 2 月获得美国大学生数学竞赛 S 奖 \n
-2024 年 12 月获得全国大学生信息安全与对抗竞赛省级一等奖 \n
-2024 年 12 月获得全国大学生信息安全与对抗竞赛国家级三等奖 \n
+## Skills
+- **Programming Languages**: Python, C, Matlab
+- **English**: CET-4: 588, CET-6: 543
+- **Computer Certification**: Passed Level 3 Network Technology, Level 4 Network Engineer Certification
 
-其他奖项
-------
-2023 年5 月获得华中科技大学优秀共青团员 \n
-2023 年10 月获得2022-2023 年度科技创新奖学金 \n
-2023 年10 月获得2022-2023 年度学习优秀奖学金 \n
-2024 年10 月获得2023-2024 年度自强奖学金 \n
-2024 年10 月获得2023-2024 年度学习优秀奖学金 \n
+## Research & Competitions
+- In my first and second year, I joined Professor Li Yuzhou's research team at the School of Telecommunications, focusing on long-wave positioning and navigation. I developed an app that tracks the current latitude and longitude in real-time.
+- In the second year, I joined the Key Laboratory of Service Computing Technology and Systems at the School of Computer Science. I am currently working on two papers related to edge computing.
+- **2022 Dec**: Third Prize in the Hubei University Students Translation Competition
+- **2023 Mar**: Second Prize in the College English Competition
+- **2023 Oct**: Third Prize in the Hubei University Students Mathematics Competition
+- **2023 Nov**: Third Prize in the HUST Mathematical Modeling Contest
+- **2024 Feb**: S Prize in the American College Mathematics Contest
+- **2024 Dec**: First Prize in the National Information Security and Confrontation Competition (Provincial)
+- **2024 Dec**: Third Prize in the National Information Security and Confrontation Competition (National)
+
+## Other Awards
+- **May 2023**: Outstanding Communist Youth League Member, HUST
+- **Oct 2023**: Science and Technology Innovation Scholarship for 2022-2023
+- **Oct 2023**: Excellence in Learning Scholarship for 2022-2023
+- **Oct 2024**: Self-Improvement Scholarship for 2023-2024
+- **Oct 2024**: Excellence in Learning Scholarship for 2023-2024
+
+---
+
+Feel free to contact me via [email](mailto:2589037526@qq.com).
+
