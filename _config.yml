@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Peng Jin / Site Title"
+locale                   : "en-CN"
+title                    : "Peng Jin / Home"
 title_separator          : "-"
 name                     : &name "Peng Jin"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "Peng Jin.png"
   name             : "Peng Jin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Wuhan"
-  employer         : "Red Brick University"
+  bio              : "undergraduate student \n School of Electronic Information and Communications \n Huazhong University of Science and Technology "
+  location         : "Wuhan,China"
+  employer         : "Huazhong University of Science and Technology"
   uri              : # URL
   email            : "2589037526@qq.com" 
 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
