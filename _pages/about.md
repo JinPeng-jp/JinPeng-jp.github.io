@@ -17,7 +17,7 @@ I'm a third-year undergraduate student from [School of Electronic Information an
 
 ## Academic Achievements
 - **Weighted Score**: 89.15
-- **Class Rank**: 6/30
+- **Rank**: 6/30
 - **English**: CET-4: 588, CET-6: 543
 - **Computer Certification**: Passed Level 3 Network Technology, Level 4 Network Engineer Certification
 
