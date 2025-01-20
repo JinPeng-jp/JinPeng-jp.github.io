@@ -12,7 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
-  width: 35%;  // 设置宽度为 35%
+  width: 260px;  // 设置宽度为 35%
   
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
@@ -79,13 +79,13 @@
   @include breakpoint($large) {
     position: relative;
     float: right;
-    width: 65%;  // 设置宽度为 65%
+    width: 500px;  // 设置宽度为 65%
     margin-left: span(0.5 of 12);
     z-index: 10;
   }
 
   @include breakpoint($x-large) {
-    width: 65%;  // 保持宽度为 65%
+    width: 500px;  // 保持宽度为 65%
   }
 }
 
