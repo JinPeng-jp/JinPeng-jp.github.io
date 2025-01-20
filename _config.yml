@@ -24,10 +24,7 @@ author:
   avatar           : "Peng Jin.png"
   name             : "Peng Jin(金鹏)"
   pronouns         : # example: "she/her"  
-  bio              : |
-    undergraduate student
-    Advanced class 2201 
-    EIC
+  bio              : "An undergraduate student of Advanced Class 2201, EIC, HUST."
   location         : "Wuhan,China"
   employer         : "HUST"
   uri              : # URL
