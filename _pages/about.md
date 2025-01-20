@@ -41,5 +41,5 @@ I'm a third-year undergraduate student from [School of Electronic Information an
 
 ---
 
-Feel free to contact me via [email](mailto:2589037526@qq.com).
+Feel free to contact me via [email](mailto:u202214066@hust.edu.cn).
 
