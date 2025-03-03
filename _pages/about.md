@@ -16,7 +16,7 @@ header:
   .icon-lg { font-size: 1.2em; }
 </style>
 
-<i class="fas fa-user-graduate icon-lg"></i> I'm a third-year undergraduate student from [<i class="fas fa-school icon-blue"></i> School of Electronic Information and Communications (EIC)](https://eic.hust.edu.cn/), [<i class="fas fa-university icon-blue"></i> Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), majoring in Electronic Information Engineering. My research interests mainly include edge computing.
+I'm a third-year undergraduate student from [School of Electronic Information and Communications (EIC)](https://eic.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), majoring in Electronic Information Engineering. My research interests mainly include edge computing.
 
 ## <i class="fas fa-graduation-cap icon-green"></i> Education Background
 - <i class="fas fa-calendar-alt icon-blue"></i> **2019.09 - 2022.06**: Hangzhou Xuejun High School, Hangzhou, Zhejiang, China
@@ -28,11 +28,11 @@ header:
 - <i class="fas fa-language icon-gold"></i> **English**: CET-4: 588, CET-6: 543
 - <i class="fas fa-certificate icon-gold"></i> **Computer Certification**: Passed Level 3 Network Technology, Level 4 Network Engineer Certification
 
-## <i class="fas fa-flask icon-green"></i> Research & Competitions
+## <i class="fas fa-flask icon-green"></i> Research
 - <i class="fas fa-microscope icon-blue"></i> In my first and second year, I joined Professor [Li Yuzhou](https://intelligenceinfinity.github.io/index.html)'s research team at the School of Telecommunications, focusing on long-wave positioning and navigation. Developed an app that tracks current latitude and longitude in real-time.
-- <i class="fas fa-server icon-blue"></i> In second year, joined the [Key Laboratory of Service Computing Technology and Systems](https://grid.hust.edu.cn/index.htm) at the School of Computer Science. Currently working on two papers related to edge computing.
+- <i class="fas fa-server icon-blue"></i> In second year, joined the [Key Laboratory of Service Computing Technology and Systems](https://grid.hust.edu.cn/index.htm) at the School of Computer Science. Currently, I have submitted two papers as the first student author to CCF Class A journals. These papers focus on the allocation of edge users under the preconditions of considering environmental uncertainties and protecting users' location privacy.
 
-### <i class="fas fa-award icon-gold"></i> Competition Highlights
+## <i class="fas fa-award icon-gold"></i> Competition Highlights
 - <i class="fas fa-medal icon-gold"></i> **2022 Dec**: Third Prize in Hubei University Students Translation Competition
 - <i class="fas fa-medal icon-gold"></i> **2023 Mar**: Second Prize in College English Competition
 - <i class="fas fa-medal icon-gold"></i> **2023 Oct**: Third Prize in Hubei University Students Mathematics Competition
